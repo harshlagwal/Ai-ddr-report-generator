@@ -187,4 +187,4 @@ ai-ddr-generator/
 - [GitHub](https://github.com/harshlagwal)
 
 ---
-*Developed for excellence in Property Diagnostics.*
+*Developed for excellence in Property Diagnostics. Developed by Harsh Lagwal.*
