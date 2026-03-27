@@ -187,4 +187,4 @@ ai-ddr-generator/
 - [GitHub](https://github.com/harshlagwal)
 
 ---
-Developed by Harsh Lagwal.
+*Developed by Harsh Lagwal*
